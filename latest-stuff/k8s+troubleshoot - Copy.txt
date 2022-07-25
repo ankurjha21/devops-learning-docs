@@ -1,0 +1,33 @@
+Trying to gather all the useful links for managing K8 apps.
+
+# CPU Throttling
+https://lnkd.in/e36Epz46: Understand CPU and Memory Usage in Pods
+https://lnkd.in/eYFjuxBT : Understanding about CPU limits
+
+# Dependency Management in pods
+https://lnkd.in/gHChqUxf: Command supervisor for coordinated Kubernetes pod container termination.
+
+# Check deprecated version of k8s ( Useful for Cluster Upgrades )
+https://lnkd.in/enzZcrrG'
+
+# Tools for troubleshooting
+https://lnkd.in/eFckTvEA : Generate Flame graphs for apps running in K8s
+https://k9scli.io/ : UI to gain insights into K8s cluster
+https://k8slens.dev/ : K8s IDE
+https://lnkd.in/eadirK-6: Generate dependencies for K8s objects
+https://lnkd.in/eMvUVkTF : Get JVM stats
+https://lnkd.in/eTDh-dtS : Bash script that enables you to aggregate (tail/follow) logs from multiple pods into one stream
+
+# Check OOM
+https://lnkd.in/gf3_AATZ
+https://lnkd.in/dBuzFdmV
+https://lnkd.in/dBhAh9tz
+
+# EKS Cluster Metrics for Monitoring
+https://lnkd.in/dZeA7B_p
+
+References for JVM memory parameter tuning
+https://lnkd.in/ez7Szpsm
+https://lnkd.in/e6eGJMrH
+https://lnkd.in/dBhAh9tz
+https://lnkd.in/ewkJEjtP
